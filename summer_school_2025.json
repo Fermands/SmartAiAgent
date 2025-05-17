@@ -1,0 +1,78 @@
+{
+  "introduction": "The Hogwarts Summer School is a one-week immersive program by New Uzbekistan University for high school (grades 9-11) and university students. It is designed to build research skills in various disciplines through workshops and discussions in a themed environment.",
+  "goals": [
+    "Develop research skills in STEM and political science.",
+    "Build a vibrant community and network with mentors and students.",
+    "Cultivate young leaders and future thinkers for Uzbekistan."
+  ],
+  "milestones": {
+    "Autumn 2024": "Application for funding and sponsorships begins.",
+    "Winter 2025": "Applications open for participants.",
+    "Spring 2025": "Mentors hold online classes to guide student project ideas.",
+    "June/July 2025": "Students work remotely on their projects.",
+    "August 2025": "One-week immersive camp at Renaissance Camp in the mountains."
+  },
+  "student_selection": {
+    "timeline": "Mid-April to late May or early June via the Telegram channel.",
+    "eligibility": "High school (grades 9\u201311) and university students.",
+    "stages": [
+      "Essay and CV submission",
+      "Case study to assess research skills",
+      "Interview with creative and behavioral questions"
+    ]
+  },
+  "academic_program": {
+    "focus_areas": [
+      "Software Technologies",
+      "Building Strong Institutions",
+      "Ecology (Water, Air, Energy, Food)",
+      "Education",
+      "Education of Concerned Citizens"
+    ],
+    "timeline": "Early March to mid-May",
+    "structure": "12-week online program based on SPRINT methodology using AGILE theory"
+  },
+  "social_activities": {
+    "timeline": "Main activities during 1-week camp in early August",
+    "highlights": [
+      "Quidditch Tournaments",
+      "Care of Mythical Beasts",
+      "Charms for Collaboration"
+    ]
+  },
+  "budgeting": {
+    "estimated_cost_per_participant": 87,
+    "max_participants": 200,
+    "note": "Participants not covered by sponsorships must self-fund."
+  },
+  "cohorts": [
+    "Winter School 2022",
+    "Summer School (SDG) 2023",
+    "Winter School (Startups) 2024",
+    "Summer of Research 2024"
+  ],
+  "statistics_website": "https://hogwarts.streamlit.app",
+  "main_initiator": {
+    "name": "New Uzbekistan University",
+    "support": [
+      "Expert mentors and professors",
+      "Promotion and logistics",
+      "Financial and secretarial support"
+    ],
+    "founders": [
+      "Fahriddin Hayitov",
+      "Nargis Kholmamatova",
+      "Fyodor Amanov"
+    ]
+  },
+  "contacts": {
+    "school_phone": "+998 93-755-77-52",
+    "university_phone": "+998 71-202-41-11",
+    "school_email": "schoolinfo@newuu.uz",
+    "university_email": "info@newuu.uz",
+    "website": "https://camp.newuu.uz",
+    "telegram": "https://t.me/Hogwarts_NewUU",
+    "youtube": "https://www.youtube.com/@CampOfNewUzbekistanUniversity",
+    "instagram": "https://www.instagram.com/hogwarts_newuu/"
+  }
+}
